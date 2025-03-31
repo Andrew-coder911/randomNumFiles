@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+*.class
+*.DS_Store
+*.iml
+out/
+lib/
+.idea/
+options
+optionsj
+source
